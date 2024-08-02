@@ -1,0 +1,10 @@
+{
+  "projectName" : "Orange",
+  "projectManager" : {
+    "name" : "Sagar",
+    "empId" : "Tp01"
+  },
+  "teamSize" : 5,
+  "teamMember" : [ "John", "David", "Steve" ],
+  "projectStatus" : "Ongoing"
+}
